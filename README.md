@@ -3,7 +3,7 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 #### Sistema financeiro doméstico
-[![CI](https://github.com/mame/quine-relay/workflows/CI/badge.svg)](https://github.com/renan-meneses/Ceuci/actions?query=workflow%3ACI)
+[![CI](https://github.com/mame/quine-relay/workflows/CI/badge.svg)](https://github.com/renan-meneses/Ceuci/actions?query=workflow)
 
 
 
